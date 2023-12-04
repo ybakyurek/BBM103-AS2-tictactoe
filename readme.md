@@ -12,7 +12,7 @@ Before you begin, make sure you have Python installed on your system. You can do
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/ybakyurek/AS2_tictoctoe.git
+   git clone https://github.com/ybakyurek/BBM103-AS2-tictactoe.git
    ```
 
 2. Navigate to the project directory:
